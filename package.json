@@ -1,0 +1,8 @@
+{
+  "name": "linode",
+  "type": "module",
+  "exports": {
+    ".": "./linode.js",
+    "./utils": "./lib/utils.js"
+  }
+}
